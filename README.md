@@ -1,11 +1,11 @@
 # [The Rift Guardian]
 
-Project team:[TBA]
+Project team:[Anass Jamad, Bo Bakker, Boaz Bootsma, Boris Soeterik, Delysha Orsel, Dylan Van Ling, Eliza Voets, Florian Bruijn, Gino Schaap, Jasper Hiemstra, Job Heilig, Jonas Driessen, Keith Kolakowski, Max Geurts, Milad Sahar, Owen Stas, Phoenix Aardenburg, Randy Van Wanrooy, Raphael Lariccia, Robin Van Wandelen, Safwan Almashnouk, Wessel De Groot]
 
 Platform: [Unreal Engine 5]
 
 Korte omschrijving van de game
-...
+The Rift Guardian is een VR wave shooter. In deze game verdedig jezelf tegen verschillende vijanden die je willen vermoorden. Met wapens dat je kan pakken en kopen door vijander te doden verdedig jezelf voor zo lang dat je kan. Hoe lang overleef jij?
 
 Producten Werkproces 1
 Product	Link
