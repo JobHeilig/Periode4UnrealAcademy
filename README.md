@@ -9,23 +9,36 @@ The Rift Guardian is een VR wave shooter. In deze game verdedig je jezelf tegen 
 
 ------------------------------------------------
 Producten Werkproces 1
-Product	Link
+
 Link naar online product backlog (Trello)	[Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
+
 Logboek (pdf)	Logboek
+
 Game concept doc (pdf)	GameDesignDoc
+
 ------------------------------------------------	
 Producten Werkproces 2
-Product	Link
+
 Online Product backlog & Sprint backlog + DoD (Trello)	[Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
+
 Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
+
 Logboek (pdf)	Logboek
+
 Opnames sprint retrospectives (Teams opnames)	Folder op teams
+
 Opnames standups (Teams opnames)	Folder op teams
+
 ------------------------------------------------
 Producten Werkproces 3
+
 Product	Link
+
 Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
+
 Sprint review verslagen (pdf)	ReviewVerslagen
+
 Link naar online speelbaar prototype	Prototype
+
 Logboek (pdf)	Logboek
 	
