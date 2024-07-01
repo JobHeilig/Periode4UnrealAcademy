@@ -12,7 +12,7 @@ Producten Werkproces 1
 
 Link naar online product backlog (Trello)	[Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
 
-Logboek (pdf)	Logboek
+Logboek (pdf)	[Logboek](https://docs.google.com/document/d/1KGOLwJxzSxMSMvN1itcpnCxCJPHH54FpwVFpsxccQzo/edit)
 
 Game concept doc (pdf)	GameDesignDoc
 
@@ -23,16 +23,14 @@ Online Product backlog & Sprint backlog + DoD (Trello)	[Backlog](https://unreal-
 
 Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
 
-Logboek (pdf)	Logboek
+Logboek (pdf)	[Logboek](https://docs.google.com/document/d/1KGOLwJxzSxMSMvN1itcpnCxCJPHH54FpwVFpsxccQzo/edit)
 
-Opnames sprint retrospectives (Teams opnames)	Folder op teams
+Opnames sprint retrospectives (Teams opnames)	[Youtube link](https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj)
 
 Opnames standups (Teams opnames)	Folder op teams
 
 ------------------------------------------------
 Producten Werkproces 3
-
-Product	Link
 
 Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
 
