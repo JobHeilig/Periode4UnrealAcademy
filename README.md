@@ -14,27 +14,23 @@ Link naar online product backlog (Trello)	[Backlog](https://unreal-academy.codec
 
 Logboek (pdf)	[Logboek](https://docs.google.com/document/d/1KGOLwJxzSxMSMvN1itcpnCxCJPHH54FpwVFpsxccQzo/edit)
 
-Game concept doc (pdf)	GameDesignDoc
-
 ------------------------------------------------	
 Producten Werkproces 2
 
 Online Product backlog & Sprint backlog + DoD (Trello)	[Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
 
-Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
+Sprint retrospective verslagen (pdf)	[RetrospectiveVerslagen](https://github.com/JobHeilig/Periode4UnrealAcademy/tree/main/Sprint5/Sprint5)
 
 [Logboek](https://docs.google.com/document/d/1KGOLwJxzSxMSMvN1itcpnCxCJPHH54FpwVFpsxccQzo/edit)
 
 Opnames sprint retrospectives	[Youtube link](https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj)
 
-Opnames standups (Teams opnames)	Folder op teams
-
 ------------------------------------------------
 Producten Werkproces 3
 
-Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
+Sprint retrospective verslagen (pdf)	[RetrospectiveVerslagen](https://github.com/JobHeilig/Periode4UnrealAcademy/tree/main/Sprint%206)
 
-Sprint review verslagen (pdf)	ReviewVerslagen
+Sprint review verslagen (pdf)	[ReviewVerslagen](https://github.com/JobHeilig/Periode4UnrealAcademy/tree/main/Sprint%206)
 
 Link naar online speelbaar prototype	[Prototype](https://github.com/JobHeilig/Periode4UnrealAcademy/releases/tag/25-06)
 
