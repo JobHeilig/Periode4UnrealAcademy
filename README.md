@@ -38,7 +38,7 @@ Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
 
 Sprint review verslagen (pdf)	ReviewVerslagen
 
-Link naar online speelbaar prototype	Prototype
+Link naar online speelbaar prototype	[Prototype](https://github.com/JobHeilig/Periode4UnrealAcademy/releases/tag/25-06)
 
 Logboek (pdf)	Logboek
 	
