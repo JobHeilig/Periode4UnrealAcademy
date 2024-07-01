@@ -5,7 +5,8 @@ Project team: [Anass Jamad, Bo Bakker, Boaz Bootsma, Boris Soeterik, Delysha Ors
 Platform: [Unreal Engine 5]
 
 Korte omschrijving van de game
-The Rift Guardian is een VR wave shooter. In deze game verdedig jezelf tegen verschillende vijanden die je willen vermoorden. Met wapens dat je kan pakken en kopen door vijander te doden verdedig jezelf voor zo lang dat je kan. Hoe lang overleef jij?
+The Rift Guardian is een VR wave shooter. In deze game verdedig je jezelf tegen verschillende vijanden die je willen vermoorden. Met wapens dat je kan pakken en kopen door vijanden te doden verdedig je jezelf voor zo lang als je kan.
+
 ------------------------------------------------
 Producten Werkproces 1
 Product	Link
@@ -15,7 +16,7 @@ Game concept doc (pdf)	GameDesignDoc
 ------------------------------------------------	
 Producten Werkproces 2
 Product	Link
-Online Product backlog & Sprint backlog + DoD (Trello)	Backlog
+Online Product backlog & Sprint backlog + DoD (Trello)	[Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
 Sprint retrospective verslagen (pdf)	RetrospectiveVerslagen
 Logboek (pdf)	Logboek
 Opnames sprint retrospectives (Teams opnames)	Folder op teams
